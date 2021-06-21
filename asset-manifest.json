@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-ikea/static/css/main.bd49317e.chunk.css",
+    "main.js": "/react-ikea/static/js/main.207d8f35.chunk.js",
+    "main.js.map": "/react-ikea/static/js/main.207d8f35.chunk.js.map",
+    "runtime-main.js": "/react-ikea/static/js/runtime-main.2fa9d9ed.js",
+    "runtime-main.js.map": "/react-ikea/static/js/runtime-main.2fa9d9ed.js.map",
+    "static/js/2.1fff4f0b.chunk.js": "/react-ikea/static/js/2.1fff4f0b.chunk.js",
+    "static/js/2.1fff4f0b.chunk.js.map": "/react-ikea/static/js/2.1fff4f0b.chunk.js.map",
+    "index.html": "/react-ikea/index.html",
+    "static/css/main.bd49317e.chunk.css.map": "/react-ikea/static/css/main.bd49317e.chunk.css.map",
+    "static/js/2.1fff4f0b.chunk.js.LICENSE.txt": "/react-ikea/static/js/2.1fff4f0b.chunk.js.LICENSE.txt",
+    "static/media/footer-daylight.8fe90cea.png": "/react-ikea/static/media/footer-daylight.8fe90cea.png",
+    "static/media/hero.c0652cfc.png": "/react-ikea/static/media/hero.c0652cfc.png",
+    "static/media/ikea-logo-box.ea6f03e4.svg": "/react-ikea/static/media/ikea-logo-box.ea6f03e4.svg",
+    "static/media/logo.d5d8f2bb.svg": "/react-ikea/static/media/logo.d5d8f2bb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fa9d9ed.js",
+    "static/js/2.1fff4f0b.chunk.js",
+    "static/css/main.bd49317e.chunk.css",
+    "static/js/main.207d8f35.chunk.js"
+  ]
+}
